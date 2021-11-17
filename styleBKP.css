@@ -1,0 +1,31 @@
+header {background-image:url("header.jpg");
+	background-position:center;
+	color:white;
+	height:200px;
+	text-align:center;
+	padding-top:100px;
+	font-size:50;
+	background-repeat:no-repeat;
+	}
+body {
+	margin:0px;
+	padding:0px;
+	border: 20px solid;
+	border-color: #072175;
+}
+
+#content {
+	padding:20px;
+	min-height:calc(100% - 540px);
+}
+#contentgrow {
+	min-height:300px;
+}
+footer {background-image: url("footer.jpg");
+	background-position:center;
+	height: 200px;
+	overflow:hidden;
+	text-align:center;
+	font-size:20;
+	background-repeat:no-repeat;
+	}
